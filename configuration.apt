@@ -1,0 +1,6 @@
+@import ./external.apt
+@import ./utils.apt
+@import ./nvidia.apt
+@import ./games.apt
+@import ./shell.apt
+podman
