@@ -4,3 +4,4 @@
 @import ./games.apt
 @import ./shell.apt
 @import ./container.apt
+@import ./deps.apt
