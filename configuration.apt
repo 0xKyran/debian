@@ -6,3 +6,4 @@
 @import ./container.apt
 @import ./deps.apt
 @import ./python.apt
+@import ./chat.apt
