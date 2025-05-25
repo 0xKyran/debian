@@ -19,3 +19,4 @@ secure-delete
 bitwarden
 postgresql-client
 imagemagick
+pre-commit
