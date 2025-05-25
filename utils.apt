@@ -16,3 +16,6 @@ conky-all
 gedit
 qbittorrent
 secure-delete
+bitwarden
+postgresql-client
+imagemagick

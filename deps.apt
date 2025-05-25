@@ -5,3 +5,10 @@ libgl1-mesa-dri
 libgbm1
 libegl1
 libgl1
+libssl-dev
+libclang-dev
+pkg-config
+protobuf-compiler
+libudev-dev
+mtr
+llvm
