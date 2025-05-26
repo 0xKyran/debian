@@ -7,3 +7,4 @@
 @import ./deps.apt
 @import ./python.apt
 @import ./chat.apt
+@import ./gnome.apt
